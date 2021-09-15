@@ -1,6 +1,6 @@
 # my_scripts
 
-Here I collected some of my scripts written in Python, Shell, Matlab, Perl.
+Here I collected some of my scripts written in Python, Shell, Matlab, Perl and C.
 The scripts help to sole different tasks in the field of computational  protein biophysics. 
 Also
 ABSURDer app (https://github.com/KULL-Centre/ABSURDer). 
