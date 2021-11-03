@@ -30,7 +30,7 @@ int main()
     char *filename_out = "md1us_all_no200ns_wt_disp_CA_fit_dt100_DM.txt";
     char *filename_out_sd = "md1us_all_no200ns_wt_disp_CA_fit_dt100_SDM.txt";
 
-    int nframes = 2400;//100
+    int nframes = 100;//100 ot 2400
     
     //struct aframe frames_vec[nframes];
     struct aframe frames;
